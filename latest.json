@@ -1,51 +1,51 @@
 {
-  "version": "0.1.0-alpha.47",
-  "notes": "### Phiên bản mới v0.1.0-alpha.47 có gì mới?\n\n🌟 **Tính năng & Cải tiến nổi bật:**\n- **Tự động cấu hình LLM**: Dialog kết nối LLM hiện tự động kiểm tra và tải danh sách model khi bạn nhập thông tin, giúp quy trình thiết lập nhanh chóng và chính xác hơn.\n- **Trung tâm Hub mới**: Hợp nhất các phần cộng đồng (Agent, MCP, Prompt) vào một Hub duy nhất với giao diện thống nhất, mượt mà và tối ưu hơn.\n- **Quản lý Addon thông minh**: Cải thiện hiển thị đường dẫn Runtime giúp dễ đọc hơn và nâng cấp cấu trúc các card cấu hình.\n- **Nâng cấp giao diện người dùng**:\n  - Thông tin bản cập nhật hiển thị dưới dạng Markdown rõ ràng hơn.\n  - Tối ưu hóa hệ thống thông báo (Toasts) và các điều khiển trên giao diện.\n  - Khắc phục các vấn đề về hiển thị và tương tác trong chat.\n\n🚀 Hãy cập nhật ngay để trải nghiệm phiên bản ổn định và thông minh hơn!",
-  "pub_date": "2026-01-14T23:29:47.009Z",
+  "version": "0.1.0-alpha.50",
+  "notes": "### Phiên bản mới v0.1.0-alpha.50 có gì mới?\n\n🌟 **Tính năng & Cải tiến nổi bật:**\n- **Thiết kế lại UI Setup**: Làm mới hoàn toàn giao diện cài đặt lần đầu khởi chạy (First-Run Setup) với phong cách hiện đại, cao cấp và mượt mà hơn.\n- **Mở rộng hỗ trợ LLM Provider**: Bổ sung đầy đủ các nhà cung cấp AI phổ biến (OpenAI, Claude, Gemini, Ollama, DeepSeek...) với cấu hình URL thông minh.\n- **Cải thiện trải nghiệm khởi đầu**: Tối ưu hóa các bước cài đặt runtime (Python, Node.js) giúp người dùng mới dễ dàng bắt đầu với Nexo.\n\n🚀 Hãy cập nhật ngay để trải nghiệm giao diện mới chuyên nghiệp và ổn định hơn!",
+  "pub_date": "2026-01-16T09:43:22.243Z",
   "platforms": {
-    "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUE0zSDdsOFZVdVMra2VqVlZHVzY0V0dHb3hTTmVPRDdaRGdjcmhpRDA4Q0ZMQ2theXQwcXY4clRQaGVjT25ENVpyZUVRcHZ3NWk1OGpwT1grUTdwRGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDMzMTU0CWZpbGU6TmV4b18wLjEuMC1hbHBoYS40N19hbWQ2NC5BcHBJbWFnZQpEVUQ5YlZvNFhXMVBVanpIaUxVMEZWWmJLSWFxcVRneDdPbnVJQUVMMHA5WE0zdm9wamZDNkVmTElqNUgzd2F0WkpDMUN5dlFyb0MvU205QTFTQktBZz09Cg==",
-      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.47/Nexo_0.1.0-alpha.47_amd64.AppImage"
-    },
-    "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUE0zSDdsOFZVdVMra2VqVlZHVzY0V0dHb3hTTmVPRDdaRGdjcmhpRDA4Q0ZMQ2theXQwcXY4clRQaGVjT25ENVpyZUVRcHZ3NWk1OGpwT1grUTdwRGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDMzMTU0CWZpbGU6TmV4b18wLjEuMC1hbHBoYS40N19hbWQ2NC5BcHBJbWFnZQpEVUQ5YlZvNFhXMVBVanpIaUxVMEZWWmJLSWFxcVRneDdPbnVJQUVMMHA5WE0zdm9wamZDNkVmTElqNUgzd2F0WkpDMUN5dlFyb0MvU205QTFTQktBZz09Cg==",
-      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.47/Nexo_0.1.0-alpha.47_amd64.AppImage"
-    },
-    "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUERsdmZFZ2QwM3VUUFFOanE4RUVXT2NFRUNXbFlQVDZrd0lHYlFGck8zeTZvYjlkenB6MTJqMnFJOVg3R054V01Bci9YSHE0N0ZVOXpFS21HSGxIM1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDMzMTU0CWZpbGU6TmV4b18wLjEuMC1hbHBoYS40N19hbWQ2NC5kZWIKbG9kU0JyY0YxQWxqZkhFRklJMHlKQmxIZG1EM0hNbWhIUHMzcHVrVGt5YjBEOEJOTGJrZjBmQTNUMkFrck9yc2ZpOGtWZVN4TnJuaWF6cDFhVEtjQXc9PQo=",
-      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.47/Nexo_0.1.0-alpha.47_amd64.deb"
-    },
-    "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUEpvOEVldEdyOGlSbDBnZEJrRjcxbTlRQWFuWmo0TW5FQm5Ld1QxOHNaWGUzZDlXMjZzR2owejZTekF6b0g0NUJFa2FpRkE2cmhncHZCcWtkUEhCcGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDMzMTU0CWZpbGU6TmV4by0wLjEuMC1hbHBoYS40Ny0xLng4Nl82NC5ycG0KeEorb2F0NzJLTDk0ZUgzYmd2N25aQTN2TWoxakpVZHg3Snd6a1RZTWp2eXk0WGxzWE0wUVJSME5KMytIbE1tV3dUdkRvdm5zWWxWTmdLOW9ZQ3VZQUE9PQo=",
-      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.47/Nexo-0.1.0-alpha.47-1.x86_64.rpm"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUEU2cXZ1cHFLc3Y3T3pIS2FrSUNVUHZYTlY2WGp2cjZYdGF2RldxeEE1V3dPMDV3MUE1RzNxbmd0a1dzU1F6VkhnMEIxTTNEbzN6dGZ2WktySXlhdUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDMzMTg2CWZpbGU6TmV4by5hcHAudGFyLmd6CmhRbGtGS1grNFRIaUhqV1puVEppVlFKdVhjSkd1K1JieWhIL3ZtVzNTUEVyV0pMNEtUblJVZXdpcnFGS1hkb2thcHRiQzFEajRlZVMyN0hibzlNS0R3PT0K",
-      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.47/Nexo_0.1.0-alpha.47_x64.app.tar.gz"
-    },
-    "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUEU2cXZ1cHFLc3Y3T3pIS2FrSUNVUHZYTlY2WGp2cjZYdGF2RldxeEE1V3dPMDV3MUE1RzNxbmd0a1dzU1F6VkhnMEIxTTNEbzN6dGZ2WktySXlhdUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDMzMTg2CWZpbGU6TmV4by5hcHAudGFyLmd6CmhRbGtGS1grNFRIaUhqV1puVEppVlFKdVhjSkd1K1JieWhIL3ZtVzNTUEVyV0pMNEtUblJVZXdpcnFGS1hkb2thcHRiQzFEajRlZVMyN0hibzlNS0R3PT0K",
-      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.47/Nexo_0.1.0-alpha.47_x64.app.tar.gz"
-    },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUE5HSVlpeHg1TThyM2xsdWpjc1g4UUFnOUxhQXhJb1JzZXdUQ3BKdWtGM2VWU1hOVnNKc0ZCMjF4ay9zZGZVWTFGRnJValZiWVAvZUVPQ0VHaldXbUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDMzMjA4CWZpbGU6TmV4by5hcHAudGFyLmd6CmRCODcwV2dsbzZDQUpvcEk3NC9lVmdKV3pYUnRuTUZNak9ENVhCK0RMamwyalpwVlVYUTU1VkRVbzh3WHNZSkg0UWk5eGw1VnduNTFtaFVYMmlNYUF3PT0K",
-      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.47/Nexo_0.1.0-alpha.47_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUEk4UVFDN1o1VWR6MmYreG5WYWdBNVlDY2Y3VzAzSEJCRW1QWFNudjhMRkJOSDcxZzFUbjFBQzhleG1EdDNTWmI3YlNzWTBZM3I0ZGpNLzRhc3dGWEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NTU2MTEwCWZpbGU6TmV4by5hcHAudGFyLmd6CkJXTGVwUUdHUWUxdkNiWXFGUjBrSk9abkR6WU1WRmdUdzE3RHcyWURKbnhTeTNaQzBmczk4ZHdaanhEUFN0cU5tK3M0VVNPYjlXMzhsdjQyVlR3cUNnPT0K",
+      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.50/Nexo_0.1.0-alpha.50_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUE5HSVlpeHg1TThyM2xsdWpjc1g4UUFnOUxhQXhJb1JzZXdUQ3BKdWtGM2VWU1hOVnNKc0ZCMjF4ay9zZGZVWTFGRnJValZiWVAvZUVPQ0VHaldXbUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDMzMjA4CWZpbGU6TmV4by5hcHAudGFyLmd6CmRCODcwV2dsbzZDQUpvcEk3NC9lVmdKV3pYUnRuTUZNak9ENVhCK0RMamwyalpwVlVYUTU1VkRVbzh3WHNZSkg0UWk5eGw1VnduNTFtaFVYMmlNYUF3PT0K",
-      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.47/Nexo_0.1.0-alpha.47_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUEk4UVFDN1o1VWR6MmYreG5WYWdBNVlDY2Y3VzAzSEJCRW1QWFNudjhMRkJOSDcxZzFUbjFBQzhleG1EdDNTWmI3YlNzWTBZM3I0ZGpNLzRhc3dGWEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NTU2MTEwCWZpbGU6TmV4by5hcHAudGFyLmd6CkJXTGVwUUdHUWUxdkNiWXFGUjBrSk9abkR6WU1WRmdUdzE3RHcyWURKbnhTeTNaQzBmczk4ZHdaanhEUFN0cU5tK3M0VVNPYjlXMzhsdjQyVlR3cUNnPT0K",
+      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.50/Nexo_0.1.0-alpha.50_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUERGL2pqZU93Yk9qZXEwWDc5Tm9EM1hmSWdyRWc4THlDc1U3YVdZdGdHS0cwVHVDQUs2VlpkVlRtMFlJUXIxdVlwS1BNdWZvV1FyL2pIUlYrYk9OQ2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NTU2MjYzCWZpbGU6TmV4by5hcHAudGFyLmd6CkFOT3E2bnBkZTBXZUE4N2d4MXFhVW40b2c2RWl4TDNsc2VTYVlqSUpldmdWcXJwN0xDbk83V0xMSlhVK2hra1hzVzFhVFVSVFFya2Z6UzRtalNQd0FBPT0K",
+      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.50/Nexo_0.1.0-alpha.50_x64.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUERGL2pqZU93Yk9qZXEwWDc5Tm9EM1hmSWdyRWc4THlDc1U3YVdZdGdHS0cwVHVDQUs2VlpkVlRtMFlJUXIxdVlwS1BNdWZvV1FyL2pIUlYrYk9OQ2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NTU2MjYzCWZpbGU6TmV4by5hcHAudGFyLmd6CkFOT3E2bnBkZTBXZUE4N2d4MXFhVW40b2c2RWl4TDNsc2VTYVlqSUpldmdWcXJwN0xDbk83V0xMSlhVK2hra1hzVzFhVFVSVFFya2Z6UzRtalNQd0FBPT0K",
+      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.50/Nexo_0.1.0-alpha.50_x64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUEFTWjg2cVFoV3FPb0wvWUU0UGh5UGVWb1dMNVl5bjNjUmc4ZkxJUHA5dmJDeUNHZHJ5ejdZTG5qRU9QdGNRVEdNVkt4LzBrTTZxcFErb2hxVFJvRGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NTU2Mzk2CWZpbGU6TmV4b18wLjEuMC1hbHBoYS41MF9hbWQ2NC5BcHBJbWFnZQo4c0E4RDF0S05SUXpuMnpCT3dkK3hjTytsTEMvaWJna0ZHWnQ4NEM1MGZ2eDlPS3FnN3dIOHNvbkJWajNZTVRTZkVmVGJEdUNXcEJlRHV2RVc5aXRCZz09Cg==",
+      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.50/Nexo_0.1.0-alpha.50_amd64.AppImage"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUEFTWjg2cVFoV3FPb0wvWUU0UGh5UGVWb1dMNVl5bjNjUmc4ZkxJUHA5dmJDeUNHZHJ5ejdZTG5qRU9QdGNRVEdNVkt4LzBrTTZxcFErb2hxVFJvRGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NTU2Mzk2CWZpbGU6TmV4b18wLjEuMC1hbHBoYS41MF9hbWQ2NC5BcHBJbWFnZQo4c0E4RDF0S05SUXpuMnpCT3dkK3hjTytsTEMvaWJna0ZHWnQ4NEM1MGZ2eDlPS3FnN3dIOHNvbkJWajNZTVRTZkVmVGJEdUNXcEJlRHV2RVc5aXRCZz09Cg==",
+      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.50/Nexo_0.1.0-alpha.50_amd64.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUEFlN3I1TzBqZHpDZlMxSlJIOUswUTNLU3hHZmhMelFwQXJtUlhIcVhSQnV2SE8zdG96VnJ0NjJmQktTV3c4cDVLbHlyNHpubzE1YVEyK3YzMWwxM2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NTU2Mzk2CWZpbGU6TmV4b18wLjEuMC1hbHBoYS41MF9hbWQ2NC5kZWIKdFVZMWUzdkhNMUFUSFdFQXFPNjVXM3loWG9jcENQY3VEU1lOam92WVRTU2tEdG8xYjdrT0RpMmVWQVpBdjdobHFqNWw4UHlYYzcxNFdwbGJLNFFIRFE9PQo=",
+      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.50/Nexo_0.1.0-alpha.50_amd64.deb"
+    },
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUENaUTBxL1RvUWdNa1d0aThKWGpoRXdTZEdwcy95aWFwbXEyeHp1dkVEalUzQUd3MFBaQkVkRGw1emFFK0pRdE9CUFhHbmZKZzJqZnluMkdFOUQ3VXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NTU2Mzk2CWZpbGU6TmV4by0wLjEuMC1hbHBoYS41MC0xLng4Nl82NC5ycG0KVXJGOVpWckRqb0lzU2pKR1p5L1pTRXZLRVIwemxScHFhMnlKc1BLKzVCREFzZW5PV2ppY0JxSDBHbXo3Q3MyTmtuYUNORysrVWNFSVdZWHBSMW1BRHc9PQo=",
+      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.50/Nexo-0.1.0-alpha.50-1.x86_64.rpm"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUEpiTDVnZnZTZFJNSkkzd1JaKzlXNGxZMkxpYUNqOEVwTmRlTVdxU0YvNVdoWlNQUWg5NjNPSmsvRDZWZ2xBbThEZyt1b1pMOWV5WVljMStpb3E2S1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDMzMzgxCWZpbGU6TmV4b18wLjEuMC1hbHBoYS40N194NjRfZW4tVVMubXNpCkt4bHVpbEtieGVTMG9vTFFUanVXck5tTzNXVDF2UFNibUovaFhYV2hGemUyT1dIQXN6VCtRWmsrL1ZPcGFJNCtUT0hVMGZ3Y2dqYjFkc201S3lmMUJRPT0K",
-      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.47/Nexo_0.1.0-alpha.47_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUFBwaENrMU5abFg1U3JtbGhnV05nY09XYmF2LzVBK0pXT3hNTWl5dHlSQnFoYTJLOXN6MkhqTG9KRXo0MmM3WUxycm5JNW5WNGhSa2VZN3ZKbk5QREFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NTU2NTk0CWZpbGU6TmV4b18wLjEuMC1hbHBoYS41MF94NjRfZW4tVVMubXNpCnlGSHdSUW11SExxeXp3Lzl4SGFnRys1UGdkZ0trMThEdktHYUM5WnRRelcvWkVxVG9OSU9IbHVnWm93bFdNdTI3UmY4TkxaNS9pMXZZRUhUclRUSkJnPT0K",
+      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.50/Nexo_0.1.0-alpha.50_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUEpiTDVnZnZTZFJNSkkzd1JaKzlXNGxZMkxpYUNqOEVwTmRlTVdxU0YvNVdoWlNQUWg5NjNPSmsvRDZWZ2xBbThEZyt1b1pMOWV5WVljMStpb3E2S1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDMzMzgxCWZpbGU6TmV4b18wLjEuMC1hbHBoYS40N194NjRfZW4tVVMubXNpCkt4bHVpbEtieGVTMG9vTFFUanVXck5tTzNXVDF2UFNibUovaFhYV2hGemUyT1dIQXN6VCtRWmsrL1ZPcGFJNCtUT0hVMGZ3Y2dqYjFkc201S3lmMUJRPT0K",
-      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.47/Nexo_0.1.0-alpha.47_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUFBwaENrMU5abFg1U3JtbGhnV05nY09XYmF2LzVBK0pXT3hNTWl5dHlSQnFoYTJLOXN6MkhqTG9KRXo0MmM3WUxycm5JNW5WNGhSa2VZN3ZKbk5QREFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NTU2NTk0CWZpbGU6TmV4b18wLjEuMC1hbHBoYS41MF94NjRfZW4tVVMubXNpCnlGSHdSUW11SExxeXp3Lzl4SGFnRys1UGdkZ0trMThEdktHYUM5WnRRelcvWkVxVG9OSU9IbHVnWm93bFdNdTI3UmY4TkxaNS9pMXZZRUhUclRUSkJnPT0K",
+      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.50/Nexo_0.1.0-alpha.50_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUEhTZVNCc2w5SGszaGt2QUFUSVNNNzVvWUpRODI1ckFHTU54MHVFTm1KaHlQVGxYRXIzRjkxZXRVSVU4ci9VQ1pockQ3dGZ1Uk9idWRaVkdCcTY4aHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDMzMzgxCWZpbGU6TmV4b18wLjEuMC1hbHBoYS40N194NjQtc2V0dXAuZXhlCkVxZzY1RWF0UHI4R3E3SVJPbG5Ta2VyWkRFVDBXdDNzaUxUU1pqaHlaRi8xM0pxQU96c1VXNnZuWGlxUllONUlSKzZhVFlqVk44QklZL1Bxb0hnNUN3PT0K",
-      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.47/Nexo_0.1.0-alpha.47_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejdLcVdXVTlWUEN5cjlTOTc0WmZBSm1NZlJzTXhaUVFkbWRRY1RCRC9yVlVXb3BGME5yOHNOdXQwNjNQckVTcXdZMGtsNjN6R1FMbFJ4cCtTUmViUHRPK0plM2d5cUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NTU2NTk0CWZpbGU6TmV4b18wLjEuMC1hbHBoYS41MF94NjQtc2V0dXAuZXhlCnVhNUdJdWtISzFnK3pndzQ3NUxzVzI5aDA4V1dCNHpZTDVKU2ZRcXpGeWhQNHlCM1l4L0cwaC8xekVqcnlXSTVPKzEzdzdjSHlaT0padEI3TVlDVEJnPT0K",
+      "url": "https://github.com/Nexo-Agent/nexo/releases/download/0.1.0-alpha.50/Nexo_0.1.0-alpha.50_x64-setup.exe"
     }
   }
 }
